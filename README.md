@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's hello-world starter
+  Le site du Centre Corail
 </h1>
 
 Oui...
